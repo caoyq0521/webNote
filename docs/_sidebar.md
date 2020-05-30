@@ -1,6 +1,5 @@
 * Javascript
   * [数组](/note/js/array)
-  * [Git](/note/js/git)
   * [HTTP协议入门](/note/js/http)
   * [HTTP协议以及https协议](/note/js/https)
   * [DOM相关](/note/js/dom)
@@ -13,3 +12,7 @@
   * [ES11新特性一览](/note/js/es11)
   * [位运算](/note/js/bitwiseOperation)
   * [继承](/note/js/inherit)
+* Git
+  * [Git常用命令](/note/git/git)
+  * [Git合并指定文件到另一个分支](/note/git/gitMerge)
+  * [解决git拉取问题](/note/git/gitPullProblem)

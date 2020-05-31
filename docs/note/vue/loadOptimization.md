@@ -1,10 +1,12 @@
 # vue首屏加载优化
 
-## 1. 把不常改变的库放到index.html中，通过cdn的方式引入
+## 1. cdn方式
 
-![](https://img2018.cnblogs.com/blog/1062623/201908/1062623-20190813191312623-1502430740.jpg)
+把不常改变的库放到`index.html`中，通过`cdn`的方式引入
 
-然后在 build/webpack.base.conf.js中，在module.export = {} 添加以下代码
+![](../../media/images/1062623-20190813191312623-1502430740.jpg)
+
+然后在 `build/webpack.base.conf.js`中，在`module.export = {}` 添加以下代码
 
 ````js
 externals: {
@@ -14,8 +16,8 @@ externals: {
 }
 ````
 
-这样 webpack 就不会把 vue.js, vue-router, element-ui 库打包了。声明一下，我把 main.js 中对 element 的引入删掉了，不然我发现打包后的 app.css 还是会把 element 的 css 打包进去，删掉后就没了。
-然后你打包就会发现 vendor 文件小了很多~
+这样 `webpack` 就不会把 `vue.js`, `vue-router`, `element-ui` 库打包了。声明一下，我把 `main.js` 中对 `element` 的引入删掉了，不然我发现打包后的 `app.css` 还是会把 element 的 css 打包进去，删掉后就没了。
+然后你打包就会发现 `vendor` 文件小了很多~
 
 ## 2. 路由懒加载
 

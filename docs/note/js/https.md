@@ -94,7 +94,7 @@
 
 > HTTPS，全名叫安全的超文本传输协议（HyperText Transfer Protocol Secure），为啥是安全的超文本传输协议呢？看一张图：
 
-![](https://images2015.cnblogs.com/blog/916774/201611/916774-20161110164813811-554326797.jpg)
+![](../../media/images/916774-20161110164813811-554326797.jpg)
 
 其实HTTPS就是在常规的TCP协议层之上加入了一层TLS或者SSL协议。所以其端口也不是常规的HTTP的80端口，变成了443端口
 

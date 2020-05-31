@@ -18,7 +18,7 @@ GET /index.html
 
 协议规定，服务器只能回应HTML格式的字符串，不能回应别的格式。
 
-````js
+````html
 <html>
   <body>Hello World</body>
 </html>
@@ -115,7 +115,7 @@ Accept: */*
 
 `MIME type`不仅用在HTTP协议，还可以用在其他地方，比如HTML网页。
 
-````js
+````html
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <!-- 等同于 -->
 <meta charset="utf-8" /> 

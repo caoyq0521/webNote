@@ -14,7 +14,7 @@ value: 属性值
 fn: 只在node调试环境下set时调用
 ````
 
-# _toString
+## _toString
 
 **字符串表示，与原生的`toString()`方法的区别：`object`和`array`使用`JSON.stringify()`处理，`null`输出`''`；(shared/util.js)**
 
@@ -27,7 +27,7 @@ let person = {
 Vue.util._toString(person)
 ````
 
-# toNumber
+## toNumber
 
 **转化为`number`类型，内部使用`parseFloat`；返回浮点数或者本身(shared/util.js)**
 

@@ -9,15 +9,15 @@ npm install --save-dev less-loader less
 ````
 然后去build文件夹下的webpack.base.conf.js文件中，添加对.less的支持
 
-![](https://image-static.segmentfault.com/248/219/2482196231-5b762fa69908d_articlex)
+![](../../media/images/2482196231-5b762fa69908d_article.png)
 
-## 2、准备工作做好了，开始换肤
+## 2、开始换肤
 
-### 2.1新建一个文件夹styles，在里面新建一个文件theme.less 
+### 2.1 新建一个文件夹styles，在里面新建一个文件theme.less 
 
 定义一个.theme()方法，写上需要的颜色参数如图：
 
-![](https://image-static.segmentfault.com/196/494/1964945135-5b76316d0f141_articlex)
+![](../../media/images/1964945135-5b76316d0f141_articlex.png)
 
 ### 2.2 styles文件夹下再新建一个存放各类主题的color.less文件，里面根据自己需求定义各类主题，记得把theme.less文件引入
 

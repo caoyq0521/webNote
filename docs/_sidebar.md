@@ -12,6 +12,8 @@
   * [ES11新特性一览](/note/js/es11)
   * [位运算](/note/js/bitwiseOperation)
   * [继承](/note/js/inherit)
+* CSS
+  * [nth-child](/note/css/nthChild)
 * Git
   * [Git常用命令](/note/git/git)
   * [Git合并指定文件到另一个分支](/note/git/gitMerge)

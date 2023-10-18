@@ -213,5 +213,3 @@ child instanceof People // false
 * 定义在构造函数内部的方法，会在它的每一个实例上，都克隆这个方法；
 * 定义在构造函数prototype属性上的方法，会让它的所有实例都共享这个方法，但是不会在每个实例内部，重新定义这个方法。
 * 如果我们的应用需要创建很多的对象，并且这些对象还有许多的方法，为了节省内存，我们建议把这些方法都定义在构造函数的prototype属性上。  
-
-  ![示例图片](https://upload-images.jianshu.io/upload_images/13387321-1c81d67a7d8110af.png)

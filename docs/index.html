@@ -10,6 +10,15 @@
     <link rel="icon" href="./media/favicon.ico">
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
     <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <style>
+        .cover-main img[alt="logo"] {
+            width: 120px;
+        }
+    
+        .app-name img {
+            width: 80px;
+        }
+    </style>
 </head>
 
 <body>
@@ -19,13 +28,17 @@
     <script>
         window.$docsify = {
             el: '#app',
-            repo: '',
+            repo: 'caoyq0521/webNote',
+            logo: '/media/images/logo.jpg',
+            name: 'caoyq0521的笔记',
             loadSidebar: true, // 展示侧边导航
             coverpage: true, // 展示封面
             mergeNavbar: true,
             onlyCover: true, // 单独展示封面
             subMaxLevel: 2, // 显示目录
             auto2top: true, // 切换页面后自动跳转到页面顶部
+            formatUpdated: '{MM}/{DD} {HH}:{mm}',
+            nativeEmoji: true,
             search: {
                 maxAge: 86400000, // 过期时间，单位毫秒，默认一天
                 paths: 'auto',

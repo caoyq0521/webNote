@@ -1,20 +1,23 @@
 <!-- 背景图片 -->
+![logo](./media/images/logo.jpg)
+<br>
+<br>
+<br>
+
+> caoyq0521
+
+- 记录一些学习到的知识
+- 记录一些学习到的工具
+- 记录一些问题的解决方法
 
 <br>
 <br>
 <br>
 
-> caoyq0521的个人笔记.
-
-<br>
-<br>
-<br>
-
-[vue](https://cn.vuejs.org)
-[iviewUi](https://www.iviewui.com)
-[ElementUi](https://element.eleme.cn/#/zh-CN)
+[GitHub](https://github.com/caoyq0521/)
+[TanmaDesign](https://caoyq0521.github.io/tanma-ui/#/home)
 [开始使用](/note/js/array)
 
 <!-- 背景色 -->
 
-<!-- ![color](#f0f0f0) -->
+![color](#fff)

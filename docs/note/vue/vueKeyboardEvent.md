@@ -4,7 +4,7 @@
 
 在一些搜索框中，我们往往需要监听键盘的按下(`onkeydown`)或抬起(`onkeyup`)事件以进行一些操作。在原生中，我们需要判断`e.keyCode`的值来获取用户所按的键。这样就存在一个问题：我们必须知道某个按键的`keyCode`值才能完成匹配，使用起来十分不便。
 
-keyCode|实际按键
+|keyCode|实际按键
 |-|-|
 48 - 57|0 - 9
 65 - 90|a-z(A-Z)
@@ -26,7 +26,7 @@ keyCode|实际按键
 <input @keyup.enter="function">
 ````
 
-别名|实际键值
+|别名|实际键值
 |-|-|
 .delete|delete / BackSpace
 .tab|Tab
@@ -42,7 +42,7 @@ keyCode|实际按键
 
 另外，Vue中还支持组合写法：
 
-组合写法|按键组合
+|组合写法|按键组合
 |-|-|
 @keyup.alt.67="function"|Alt + C
 @click.ctrl="function"|Ctrl + Click

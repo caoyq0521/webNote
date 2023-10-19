@@ -42,6 +42,10 @@
   * [map组件](/note/miniProgram/map)
   * [scroll view](/note/miniProgram/scrollView)
   * [滑动卡顿](/note/miniProgram/scrollViewFlicker)
+* 组件库开发
+  * [组件开发规范](/note/component/componentDevelopment)
+  * [vant cli](/note/component/vantCli)
+  * [createDirStructure插件](/note/component/createDirStructure)
 * Node
    * [时间格式化](/note/node/sillyDatetime)
    * [定时任务](/note/node/nodeSchedule)

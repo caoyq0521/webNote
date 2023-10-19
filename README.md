@@ -1,2 +1,5 @@
 # webNote
-There is some note for Web
+
+- 记录一些学习到的知识
+- 记录一些学习到的工具
+- 记录一些问题的解决方法

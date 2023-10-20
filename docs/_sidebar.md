@@ -37,6 +37,7 @@
   * [html2canvas](note/vue/html2canvas)
   * [vue-clipboard2](note/vue/vueClipboard2)
   * [vue键盘事件](note/vue/vueKeyboardEvent)
+  * [vue3拖拽指令](note/vue/vue3Drag)
 * 小程序
   * [Vant Weapp](/note/miniProgram/vantWeapp)
   * [获取详细地址](/note/miniProgram/getAddress)

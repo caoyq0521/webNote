@@ -13,7 +13,9 @@
   * [位运算](/note/js/bitwiseOperation)
   * [继承](/note/js/inherit)
 * CSS
+  * [css3选择器](/note/css/css3Selector)
   * [nth-child](/note/css/nthChild)
+  * [hover移动端兼容](/note/css/hoverMobile)
 * Git
   * [Git常用命令](/note/git/git)
   * [Git合并指定文件到另一个分支](/note/git/gitMerge)

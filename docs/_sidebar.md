@@ -45,8 +45,11 @@
   * [map组件](/note/miniProgram/map)
   * [scroll view](/note/miniProgram/scrollView)
   * [滑动卡顿](/note/miniProgram/scrollViewFlicker)
+* react
+  * [react](/note/react/react)
 * 组件库开发
   * [组件开发规范](/note/component/componentDevelopment)
+  * [分支和版本管理](/note/component/branchAndVersionManagement)
   * [vant cli](/note/component/vantCli)
   * [createDirStructure插件](/note/component/createDirStructure)
 * Node

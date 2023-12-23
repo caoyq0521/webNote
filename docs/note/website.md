@@ -26,6 +26,14 @@
 
 [Electron](https://www.electronjs.org)
 
+## React相关
+
+[React](https://react.docschina.org/learn)
+
+[React Native](https://reactnative.dev/)
+
+[React 教程](https://react-tutorial.app/)
+
 ## 微前端
 
 [qiankun](https://qiankun.umijs.org/zh/guide)
@@ -44,6 +52,8 @@
 
 [Naive UI](https://www.naiveui.com/zh-CN/os-theme)
 
+[Ant Design](https://ant-design.antgroup.com/index-cn)
+
 ## Javascript相关
 
 [Lodash](https://www.lodashjs.com/)
@@ -56,9 +66,41 @@
 
 [常用对照表](https://tool.oschina.net/commons?type=5)
 
+[JSchallenger](https://www.jschallenger.com/)
+
 ## Typescript相关
 
 [Typescript](https://www.tslang.cn/docs/home.html)
+
+[Typescript Exercises](https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts)
+
+## CSS相关
+
+[Flex Box 冒险游戏](https://codingfantasy.com/games/flexboxadventure)
+
+[Flexbox 格子骑士](https://knightsoftheflexboxtable.com/)
+
+[Flex Box 青蛙](https://flexboxfroggy.com/)
+
+[Flex Box 打僵尸](https://geddski.teachable.com/p/flexbox-zombies)
+
+[Flex Box 保卫战](http://www.flexboxdefense.com/)
+
+[Flex语法操纵台](https://the-echoplex.net/flexyboxes/)
+
+[Grid 花园](https://cssgridgarden.com/)
+
+[CSS Grid 备忘清单](https://alialaa.github.io/css-grid-cheat-sheet/)
+
+[Grid 攻击](https://codingfantasy.com/games/css-grid-attack)
+
+[CSS 选择器备忘清单](https://frontend30.com/css-selectors-cheatsheet/)
+
+[CSS 动画](https://css-animations.io/)
+
+[混合滤镜](https://ilyashubin.github.io/FilterBlend/)
+
+[CSS晚餐](https://flukeout.github.io/)
 
 ## Node相关
 
@@ -87,3 +129,5 @@
 [Docsify](https://docsify.js.org/#/zh-cn/)
 
 [Antv X6](https://x6.antv.antgroup.com/)
+
+[Git分支学习](https://learngitbranching.js.org/)
